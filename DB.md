@@ -84,4 +84,6 @@ W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2003 r.
 2. Głosowanie odbywa się w lokalu obwodowej komisji do spraw referendum, w ciągu jednego dnia, bez przerwy od godziny 6.00 do 22.00.
 3. Do trybu przeprowadzenia głosowania stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112).
 
-3) uchyla się art. 60-79
+3) uchyla się art. 32
+
+4) uchyla się art. 60-79
