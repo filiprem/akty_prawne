@@ -3,7 +3,8 @@
 ## Rozdział 1. Władza bezpośrednia
 
 ### Art. 1.
-Ustawa reguluje sposób bezpośredniego sprawowania władzy przez Naród, o czym mowa w art. 4. ust. 2 Konstytucji Rzeczypospolitej Polskiej.
+1. Ustawa reguluje sposób bezpośredniego sprawowania władzy przez Naród, o czym mowa w art. 4. ust. 2 Konstytucji Rzeczypospolitej Polskiej.
+2. Zasady przeprowadzania głosowań reguluje ustawa z dnia 14 marca 2003 r. o referendum ogólnokrajowym.
 
 ### Art. 2. Referenda obligatoryjne
 1. Zgodnie z art. 4. ust. 1. Konstytucji RP, Narodowi przedstawia się pod głosowanie:  
@@ -24,10 +25,6 @@ Ustawa reguluje sposób bezpośredniego sprawowania władzy przez Naród, o czym
 3. Weto obywatelskie nie może dotyczyć:  
    a. ustawy budżetowej  
    b. ustaw wprowadzanych na czas określony, nie dłuższy niż rok, nie dotyczących praw politycznych obywateli.
-
-### Art. 5. Dni Referendalne
-1. Dniami Referendalnymi są dni 3 maja i 11 listopada.
-2. Referenda odbywają się wyłącznie w Dni Referendalne.
 
 ## Rozdział 2. Inicjatywa obywatelska
 
@@ -60,7 +57,7 @@ TODO
 ### Art. W5. Zakończenie okresu zgłaszania weta
 1. Niezwłocznie po zakończeniu okresu zgłaszania weta obywatelskiego i zakończeniu liczenia zgłoszonych podpisów, Państwowa Komisja Wyborcza ogłasza czy weto zgłosiła wystarczająca liczba uprawnionych do głosowania obywateli, i publikuje informację o tym w biuletynie informacji publicznej.
 2. Jeśli weta nie zgłosiła wymagana liczba obywateli, ustawa może wejść w życie.
-3. Jeśli weto zgłosiła wymagana liczba obywateli, wejście w życie ustawy zostaje zawieszone do momentu przeprowadzenia referendum. Prezydent ogłasza referendum w najbliższym Dniu Referendalnym, nie wcześniej jednak niż 40 dni po zakończeniu okresu zgłaszania weta.
+3. Jeśli weto zgłosiła wymagana liczba obywateli, wejście w życie ustawy zostaje zawieszone do momentu przeprowadzenia referendum. Prezydent ogłasza referendum niezwłocznie, nie wcześniej jednak niż 60 dni po zakończeniu okresu zgłaszania weta.
 
 ### Art. W6. Referendum
 1. Pytanie referendalne brzmi "Czy popierasz przyjęcie ........... (tytuł aktu prawnego wraz z datą uchwalenia)?"
@@ -70,3 +67,21 @@ TODO
 ## Rozdział 4. Przepisy karne
 
 TODO
+
+## Rozdział 5. Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. K1. Ustawa o referendum ogólnokrajowym
+W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2003 r. Nr 57, poz. 507, Nr 85, poz. 782, z 2007 r. Nr 112, poz. 766, z 2009 r. Nr 68, poz. 573, Nr 202, poz. 1547, z 2011 r. Nr 21, poz. 113, Nr 106, poz. 622, Nr 147, poz. 881.) wprowadza się następujące zmiany:
+
+1) art. 4 otrzymuje brzmienie:
+#### Art. 4.
+1. Referendum wyznacza się na dzień 3 maja lub 11 listopada.
+2. Głosowanie w referendum jest przeprowadzane w ciągu jednego dnia.
+
+2) art. 5 otrzymuje brzmienie:
+#### Art. 5.
+1. Głosować można tylko osobiście.
+2. Głosowanie odbywa się w lokalu obwodowej komisji do spraw referendum, w ciągu jednego dnia, bez przerwy od godziny 6.00 do 22.00.
+3. Do trybu przeprowadzenia głosowania stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112).
+
+3) uchyla się art. 60-79
